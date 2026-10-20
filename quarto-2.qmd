@@ -1,0 +1,13 @@
+---
+title: "My Second Quarto Document"
+author: "Kami Rice"
+format: html
+---
+
+
+```{r}
+library(tidyverse)
+
+ggplot(mtcars, aes(x = wt, y = mpg)) +
+  geom_point()
+```

@@ -1,0 +1,13 @@
+---
+title: "My Second Quarto Document"
+author: "Kami Rice"
+format: html
+---
+
+#| message: false
+
+```{r}
+library(tidyverse)
+```
+  echo: false
+#|label: setup
