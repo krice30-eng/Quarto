@@ -1,8 +1,9 @@
 ---
 title: "My First Quarto Document"
+author: "Kami Rice"
 format: html
 ---
 
 ## My Header
-
 You can do a lot of cool things in Quarto like **bold** and *italic* text.
+
